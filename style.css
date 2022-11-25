@@ -1,0 +1,20 @@
+body {
+    background: #CEDDEC;
+}
+
+.card {
+    margin-top: 25vh;
+}
+
+.card-img-top {
+    padding: 18px 18px 20px 20px;
+    border-radius: 30px;
+}
+
+.card-title {
+    line-height: 2rem;
+}
+
+p {
+    font-size: 15px;
+}
